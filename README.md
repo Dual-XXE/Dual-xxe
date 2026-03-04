@@ -1,48 +1,54 @@
 # Hi, I'm Ahmad 👋
 
-## Full-Stack Developer | Telegram Bots | Payment Integration | Web & Mobile Apps
+**Full-Stack Developer** specializing in Telegram Bots, Payment Integration, and Web Applications.
 
-I build digital solutions that solve real business problems. From Telegram bots processing thousands of subscriptions to SaaS platforms handling secure payments — I turn ideas into working products.
-
----
-
-### 🤖 What I Build
-
-| Service | What You Get |
-|---------|-------------|
-| **Telegram Bots** | Automation, payment bots, subscription management, content delivery, group tools |
-| **Payment Integration** | Paystack, Stripe, Flutterwave — checkout flows, webhooks, subscriptions |
-| **Web Development** | Next.js & React full-stack apps, SaaS platforms, dashboards, REST APIs |
-| **Frontend Development** | Modern responsive interfaces, interactive UIs, Tailwind CSS |
+I build production-ready applications with real payment processing, subscription management, and content delivery systems.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-```
-Frontend:   React | Next.js | Tailwind CSS | TypeScript | HTML5/CSS3
-Backend:    Node.js | Express | Python | REST APIs
-Database:   MongoDB | PostgreSQL | Firebase
-Payments:   Paystack | Stripe | Flutterwave | Crypto
-Bot Dev:    Telegram Bot API | node-telegram-bot-api | Webhooks
-Deploy:     Vercel | Netlify | Railway
-Tools:      Git | GitHub | VS Code | Postman
-```
+### 🤖 [SubBot — Telegram Subscription Bot](https://github.com/Dual-xxe/telegram-sub-bot)
+Production-ready Telegram bot with Paystack payments, MongoDB database, and automated subscription management. Live and running 24/7.
+
+`Node.js` `Telegram API` `Paystack` `MongoDB` `Express` `Render`
+
+**[Try Bot →](https://t.me/numa_sub_bot)** · **[View Code →](https://github.com/Dual-xxe/telegram-sub-bot)**
 
 ---
 
-### 🚀 Featured Projects
+### 💳 [PayFlow — Payment Integration Demo](https://github.com/Dual-xxe/payflow-demo)
+Modern payment integration showcase with working Paystack checkout, pricing plans, transaction logging, and payment receipts.
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [SubBot](https://github.com/Dual-xxe/telegram-sub-bot) | Telegram subscription bot with Paystack payments | Node.js, MongoDB, Paystack |
-| [PayFlow](https://github.com/Dual-xxe/payflow-demo) | Payment integration demo with live checkout | Next.js, Paystack, Stripe |
-| [MZone](https://github.com/Dual-xxe/mzone-platform) | SaaS content subscription platform | Next.js, MongoDB, Paystack |
-| [Portfolio](https://numapremiumai.store) | My developer portfolio website | HTML, CSS, JavaScript |
+`HTML5` `CSS3` `JavaScript` `Paystack Inline`
+
+**[Live Demo →](https://majestic-granita-d17a1e.netlify.app)** · **[View Code →](https://github.com/Dual-xxe/payflow-demo)**
 
 ---
 
-### 📊 GitHub Stats
+### 🎬 [MZone — Content & Streaming Platform](https://github.com/Dual-xxe/mzone-platform)
+Premium content platform with subscription-based access control, Paystack payments, and content delivery for streaming media.
+
+`HTML5` `CSS3` `JavaScript` `Paystack` `GitHub Pages`
+
+**[Live Demo →](https://tgzoro12.github.io/mzone/?v=1002)** · **[View Code →](https://github.com/Dual-xxe/mzone-platform)**
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | Node.js, Express.js, MongoDB, Mongoose |
+| **Frontend** | HTML5, CSS3, JavaScript, Responsive Design |
+| **Payments** | Paystack, Stripe, Flutterwave |
+| **Bots** | Telegram Bot API, node-telegram-bot-api |
+| **Deployment** | Render, Netlify, Vercel, GitHub Pages |
+| **Tools** | Git, GitHub, REST APIs, Webhooks |
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dual-xxe&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -50,12 +56,23 @@ Tools:      Git | GitHub | VS Code | Postman
 
 ---
 
-### 📬 Let's Work Together
+## 💼 Services
 
-- 🌐 Portfolio: [numapremiumai.store](https://numapremiumai.store)
-- 💬 Telegram: [@DUAL_XXE](https://t.me/DUAL_XXE)
-- 📧 Email: dualization01@gmail.com
+| Service | Description |
+|---------|-------------|
+| 🤖 **Telegram Bots** | Custom bots with payments, subscriptions, admin panels |
+| 💳 **Payment Integration** | Paystack, Stripe, Flutterwave — checkout, webhooks, verification |
+| 🌐 **Web Applications** | Full-stack apps with authentication, databases, APIs |
+| 🎬 **Content Platforms** | Streaming sites with access control and subscription systems |
 
 ---
 
-*Available for freelance projects. Let's build something great!*
+## 📫 Contact
+
+- 🌐 **Website:** [numapremiumai.store](https://numapremiumai.store)
+- 💬 **Telegram:** [@DUAL_XXE](https://t.me/DUAL_XXE)
+- 📧 **Email:** dualization01@gmail.com
+
+---
+
+*Available for freelance projects and collaborations. Let's build something great together!*
